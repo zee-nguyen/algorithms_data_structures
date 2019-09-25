@@ -1,4 +1,4 @@
-# Interview Study Plan
+# Algorithms & Data Structures Study Plan
 
 <blockquote>Consistency is Key.
 You are making progress and you are growing. Don't forget that.</blockquote>
